@@ -1,0 +1,54 @@
+.imgBg{
+
+      
+        height: 100vh; 
+        width: 100%;
+        position: relative;
+          background-repeat: no-repeat;
+  background-size: cover;
+    
+}
+
+/* tree  */
+.tree1{
+        position: absolute;
+        height: 150px;
+        width:150px; 
+        margin-top: -400px;
+}
+.tree2{
+        position: absolute;
+        height: 150px;
+        width:150px; 
+        margin-top: -400px;
+        margin-left: -40%;
+}
+.tree3{
+        position: absolute;
+        height: 150px;
+        width:150px; 
+        margin-top: -400px;
+}
+
+/* lion */
+.lion{
+        position: absolute;
+        margin-top: -250px !important;
+        padding-left: 0% !important;
+}
+.imgSize{
+        height: 200px;
+}
+
+
+/* //goat */
+
+.goat{
+        position: absolute;
+        margin-top: -250px;
+        padding-left: 40%;
+
+}
+.horseimgSize{
+        height: 200px;
+}
